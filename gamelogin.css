@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 235, 250);
+	
+}
+#a   {
+	background-image: linear-gradient( rgb(173, 216, 230) 0%, rgb(214, 161, 239) 100%);
+	}
+	h1 {
+		font-style: bold;
+		font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	}
+
+

@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(lightpink 100%, violet 0%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button {
+     background-image: linear-gradient(lightblue 50%, violet 50%);
+     color: black;
+     font-size: xx-large;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+  #output 
+    {
+		background: rgb(255, 209, 248);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
